@@ -1,2 +1,2 @@
 # injection-practice
- some practice
+ some simple practice
